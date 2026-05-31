@@ -13,7 +13,6 @@ O projeto utiliza o recurso de desenho nativo do Excel (Draw) como interface de 
 * Arquitetura: Rede Neural Feedforward Multicamadas (Multi-Layer Perceptron).
 * Algoritmos: Implementação manual dos processos de Forward Propagation e Backpropagation (cálculo de gradientes e atualização de pesos via gradiente descendente).
 * Dataset 100% Autoral (Construído do Zero): Em vez de utilizar as 60.000 imagens prontas do dataset MNIST tradicional, o modelo foi treinado utilizando um conjunto enxuto de 200 desenhos próprios coletados diretamente na interface do Excel.
-* O Desafio do Small Data: O projeto demonstra como uma rede neural bem estruturada matematicamente consegue convergir e reconhecer padrões mesmo com um volume restrito de dados de treino, exigindo um ajuste fino e preciso dos pesos e vieses via VBA.
 
 ## Como Testar
 * Baixe o arquivo Nome_Do_Seu_Arquivo.xlsm presente neste repositório.
